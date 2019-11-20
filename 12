@@ -1,0 +1,318 @@
+# IPTV
+# EXTM3U
+#EXTINF: -1 type = "stream" tvg-id = "A Fazenda 11" tvg-logo = "https://i.ibb.co/PhfqYRv/afazenda11.png" group-title = "Variedade", A Fazenda 11
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/afazenda_70ac2ffc_ad1e5f0f4507c593b47e619e70f195718407aee6/playlist.m3u8
+#EXTINF: -1 type = "stream" tvg-id = "A&E" tvg-logo = "https://i.ibb.co/F75tqwv/aande.png" group-title = "Filme e série", A & E
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/aemundo_c28aca23_f2239b6ae953f851c8cb8e1948c9fb98eb639f1d/playlist.m3u8
+#EXTINF: -1 type = "stream" tvg-id = "AMC" tvg-logo = "https://i.ibb.co/g7FpZ74/amc.png" group-title = "Filme e série", AMC
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/amcbrasil_b7f5113f_41bf7f74cec2a93525b8cabc92d22456822251a6/playlist.m3u8
+#EXTINF: -1 type = "stream" tvg-id = "AXN" tvg-logo = "https://i.ibb.co/stn1js5/axnb.png" group-title = "Filme e série", AXN
+http://tvnanet.xyz:25461/live/palestra2020/palestra/12.m3u8
+#EXTINF: -1 type = "stream" tvg-id = "Animal Planet" tvg-logo = "https://i.ibb.co/rmdFf4V/animalplanet2019.png" group-title = "Documentario", Animal Planet
+http://tvnanet.xyz:25461/live/palestra2020/palestra/8.m3u8
+#EXTINF: -1 type = "stream" tvg-id = "Arte 1" tvg-logo = "https://i.ibb.co/QNkBQc6/arte1.png" group-title = "Variedade", Arte 1
+http://tvnanet.xyz:25461/live/palestra2020/palestra/10.m3u8
+#EXTINF: -1 type = "stream" tvg-id = "BIS" tvg-logo = "https://i.ibb.co/B2DbLdN/bis.png" group-title = "Entretenimento e Música", BIS
+http://tvnanet.xyz:25461/live/palestra2020/palestra/24.m3u8
+#EXTINF: -1 type = "stream" tvg-id = "Baby TV" tvg-logo = "https://i.ibb.co/yfscShb/babytv.png" group-title = "Infantil", Baby TV
+http://load.kudaplay.tv/aovivo/SD_BABYTV/video.m3u8?token=6dceb254c49fec2fd0328363762b25b8
+#EXTINF: -1 type = "stream" tvg-id = "Band" tvg-logo = "https://i.ibb.co/pWdRD7J/band.png" group-title = "TV Aberta", banda
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/band_49e3d046_d8f05cfd6cb594e09945cc96d4c313abcc7072ba/playlist.m3u8
+#EXTINF: -1 type = "stream" tvg-id = "Band Minas HD" tvg-logo = "https://i.ibb.co/pWdRD7J/band.png" group-title = "TV Aberta", banda Minas HD
+http://load.kudaplay.tv/aovivo/BAND_MG/video.m3u8?token=6dceb254c49fec2fd0328363762b25b8
+#EXTINF: -1 type = "stream" tvg-id = "Notícias da banda" tvg-logo = "https://i.ibb.co/tHgNtbw/bandnews.png" group-title = "Notícia", Notícias da banda
+http://load.kudaplay.tv/aovivo/SD_BAND_NEWS/video.m3u8?token=6dceb254c49fec2fd0328363762b25b8
+#EXTINF: -1 type = "stream" tvg-id = "Banda SP" tvg-logo = "https://i.ibb.co/pWdRD7J/band.png" group-title = "TV Aberta", banda SP
+http://load.kudaplay.tv/aovivo/SD_BAND_SP/video.m3u8?token=6dceb254c49fec2fd0328363762b25b8
+#EXTINF: -1 type = "stream" tvg-id = "Band Sports" tvg-logo = "https://i.ibb.co/t8H0fk0/bandsports.png" group-title = "Esporte", Band Sports
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/band_49e3d046_d8f05cfd6cb594e09945cc96d4c313abcc7072ba/playlist.m3u8
+#EXTINF: -1 type = "stream" tvg-id = "Boomerang" tvg-logo = "https://i.ibb.co/4WsFbpW/boomerangb.png" group-title = "Infantil", Boomerang
+http://tvnanet.xyz:25461/live/palestra2020/palestra/26.m3u8
+#EXTINF: -1 type = "stream" tvg-id = "CNN Internacional FHD" tvg-logo = "https://i.ibb.co/X4JhqpB/cnni.png" group-title = "Notícia e Internacional", CNN Internacional FHD
+https://live.dogannet.tv/S1/HLS_LIVE/cnn_turk/1000/prog_index.m3u8
+#EXTINF: -1 type = "stream" tvg-id = "Canal Brasil" tvg-logo = "https://i.ibb.co/dGDgcDc/canalbrasilb.png" group-title = "Filme e série", Canal Brasil
+http://load.kudaplay.tv/aovivo/SD_CANAL_BRASIL/video.m3u8?token=6dceb254c49fec2fd0328363762b25b8
+#EXTINF: -1 type = "stream" tvg-id = "Canal Rural" tvg-logo = "https://i.ibb.co/fxWk6Mh/canalruralb.png" group-title = "TV Aberta", Canal Rural
+http://load.kudaplay.tv/aovivo/SD_CANAL_RURAL/video.m3u8?token=6dceb254c49fec2fd0328363762b25b8
+#EXTINF: -1 type = "stream" tvg-id = "Canção nova" tvg-logo = "https://i.ibb.co/4SW5kYN/tvcancaonova.png" group-title = "TV Aberta", Cancao nova
+http://edge-aws.aovivo.club/hls/s:78.47.74.192/cancaonova_c30749cf_8295ce947853486106d5d12885ec4e7ef34bc55d/720p/chunklist.m3u8
+#EXTINF: -1 type = "stream" tvg-id = "Rede de desenhos animados" tvg-logo = "https://i.ibb.co/r0mmt10/cartoonnetworkb.png" group-title = "Infantil", Rede de desenhos animados
+http://load.kudaplay.tv/aovivo/SD_CARTOON_NETWORK/video.m3u8?token=6dceb254c49fec2fd0328363762b25b8
+#EXTINF: -1 type = "stream" tvg-id = "Cartoon Network HD" tvg-logo = "https://i.ibb.co/r0mmt10/cartoonnetworkb.png" group-title = "Infantil", Cartoon Network HD
+http://tvnanet.xyz:25461/live/palestra2020/palestra/29.m3u8
+#EXTINF: -1 type = "stream" tvg-id = "Cinemax" tvg-logo = "https://i.ibb.co/qCx1SLY/cinemax.png" group-title = "Filme e série", Cinemax
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/cinemax720p_49117359_b7602d914645c2c18d01616e8bb6dd7d93da5559.m3u8
+#EXTINF: -1 type = "stream" tvg-id = "Combate" tvg-logo = "https://i.ibb.co/HzWqMFR/combate.png" group-title = "Esporte", Combate
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/combate_ac3478d6_13493c9d4120db2c9c349627e374104cb8a3b3e5/playlist.m3u8
+#EXTINF: -1 type = "stream" tvg-id = "Central de comédia" tvg-logo = "https://i.ibb.co/Jxy45YQ/comedycentralb.png" group-title = "Filme e série", Comédia Central
+https://cdnfe1.azureedge.net/hls1/comedycentral.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvOC8yMDE5IDExOjMxOjAzIFBNJmhhc2hfdmFsdWU9dno1c0ZyTmpESlRIZzBFQmJWY0hxUT09JnZhbGlkbWludXRlcz02MCZpZD01
+#EXTINF: -1 type = "stream" tvg-id = "Cultura" tvg-logo = "https://i.ibb.co/CvvkxnR/tvcultura.png" group-title = "TV Aberta", Cultura
+http://edge-aws.aovivo.club/hls/s:192.99.169.90/tvculturahd_ef7de0b7_1725f29cdd43b2292790b20917f73dcf50efcdec/480p/chunklist.m3u8
+#EXTINF: -1 type = "stream" tvg-id = "Curta!" tvg-logo = "https://i.ibb.co/YRKtq0s/curta.png" group-title = "Variedade", Curta!
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/canalcurta_9d6ad3cc_e5c91a64d15e93b741fcb347e3f74bae32b6805c.m3u8
+#EXTINF: -1 type = "stream" tvg-id = "Canal de descoberta" tvg-logo = "https://i.ibb.co/8x3TjWH/discoverychannelb.png" group-title = "Documentario", canal de descoberta
+http://load.kudaplay.tv/aovivo/SD_DISCOVERY/video.m3u8?token=6dceb254c49fec2fd0328363762b25b8
+#EXTINF: -1 type = "stream" tvg-id = "Discovery Channel HD" tvg-logo = "https://i.ibb.co/8x3TjWH/discoverychannelb.png" group-title = "Documentario", Discovery Channel HD
+http://tvnanet.xyz:25461/live/palestra2020/palestra/43.m3u8
+#EXTINF: -1 type = "stream" tvg-id = "Civilização de descoberta HD" tvg-logo = "https://i.ibb.co/mcBYLpp/discoverycivilizationb.png" group-title = "Documentário", Civilização de descoberta HD
+http://edge-aws.aovivo.club/hls/s:78.47.74.192/discoverycivilization_2473f015_e4d8d19b792ab82b3a369a7b5736934bcd409dcc.m3u8
+#EXTINF: -1 type = "stream" tvg-id = "Casa e saúde de descoberta" tvg-logo = "https://i.ibb.co/dcxPbWL/discoveryhomeandhealth.png" group-title = "Variedade", descoberta Saúde doméstica
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/discoveryhomehealth_84582c1d_51716fe9d5c6692dce07b20ed42b533aef42bd14.m3u8
+#EXTINF: -1 type = "stream" tvg-id = "Casa e saúde em HD de descoberta" tvg-logo = "https://i.ibb.co/dcxPbWL/discoveryhomeandhealth.png" group-title = "Variedade", Discovery Home & Health HD
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/discoveryhomehealth_84582c1d_51716fe9d5c6692dce07b20ed42b533aef42bd14.m3u8
+#EXTINF: -1 type = "stream" tvg-id = "Discovery Kids" tvg-logo = "https://i.ibb.co/bJnfyPZ/discoverykids.png" group-title = "Infantil", Discovery Kids
+http://tvnanet.xyz:25461/live/palestra2020/palestra/49.m3u8
+#EXTINF: -1 type = "stream" tvg-id = "Discovery Science" tvg-logo = "https://i.ibb.co/cJwdX8C/discoveryscienceb.png" group-title = "Documentario", Discovery Science
+https://cdnfe1.azureedge.net/hls1/discoverysience.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvOS8yMDE5IDEyOjAwOjUyIEFNJmhhc2hfdmFsdWU9Si9hYW9RVW1nblpJWWUxL1hsaW5mUT09JnZhbGlkbWludXRlcz02MCZpZD01
+#EXTINF: -1 type = "stream" tvg-id = "Discovery Theater" tvg-logo = "https://i.ibb.co/z2JDsg0/discoverytheater.png" group-title = "Documentario", Discovery Theater
+http://edge-aws.aovivo.club/hls/s:78.46.240.155/discoverytheater_904f2cc1_cf3699faa4600b3b582befad4b05194eb14fd3d7.m3u8
+#EXTINF: -1 type = "stream" tvg-id = "Discovery Turbo" tvg-logo = "https://i.ibb.co/LkFmVss/discoveryturbob.png" group-title = "Documentario", Discovery Turbo
+http://tvnanet.xyz:25461/live/palestra2020/palestra/57.m3u8
+#EXTINF: -1 type = "stream" tvg-id = "Mundo da descoberta" tvg-logo = "https://i.ibb.co/yYCzY9k/discoveryworld.png" group-title = "Documentario", Mundo da descoberta
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/discoveryworld_68b79337_fbb855fb643b2e6b488cf45693199a56a4d27691.m3u8
+#EXTINF: -1 type = "stream" tvg-id = "Disney Channel" tvg-logo = "https://i.ibb.co/k1mR5zz/disney.png" group-title = "Infantil", Disney Channel
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/disneychannel_a9334987_8a1d62c6bc10d2aa4bb8544705fb0e87bce5846c.m3u8
+#EXTINF: -1 type = "stream" tvg-id = "Disney JR" tvg-logo = "https://i.ibb.co/0MBKmFY/disneyjuniorb.png" group-title = "Infantil", Disney JR
+https://mj1b2xsspj.singularcdn.net.br/encompass/DisneyJrBRA/master_Layer4.m3u8
+#EXTINF: -1 type = "stream" tvg-id = "Disney XD" tvg-logo = "https://i.ibb.co/KqXhhC2/disneyxd.png" group-title = "Infantil", Disney XD
+https://mj1b2xsspj.singularcdn.net.br/encompass/DisneyXDBRA/master_Layer2.m3u8
+#EXTINF: -1 type = "stream" tvg-id = "E!" tvg-logo = "https://i.ibb.co/qBfvJ1m/eentertainmentb.png" group-title = "Variedade", E!
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/eentertainment_fe2fb474_bbe3f9e27d5a68818717cef8ba154a78750d30cb/playlist.m3u8
+#EXTINF: -1 type = "stream" tvg-id = "ESPN" tvg-logo = "https://i.ibb.co/b3V4fX8/espn.png" group-title = "Esporte", ESPN
+https://mj1b2xsspj.singularcdn.net.br/encompass/ESPN/master_Layer3.m3u8
+#EXTINF: -1 type = "stream" tvg-id = "ESPN 2" tvg-logo = "https://i.ibb.co/jfQwnhV/espn2.png" group-title = "Esporte", ESPN 2
+https://mj1b2xsspj.singularcdn.net.br/encompass/ESPN2/master_Layer3.m3u8
+#EXTINF: -1 type = "stream" tvg-id = "ESPN Brasil" tvg-logo = "https://i.ibb.co/55mfLPx/espnbrasilb.png" group-title = "Esporte", ESPN Brasil
+https://mj1b2xsspj.singularcdn.net.br/encompass/ESPN_Brasil/master_Layer3.m3u8
+#EXTINF: -1 type = "stream" tvg-id = "Espn Extra" tvg-logo = "https://i.ibb.co/QbCjwYR/espnextra.png" group-title = "Esporte", Espn Extra
+https://mj1b2xsspj.singularcdn.net.br/encompass/ESPN_Extra/master_Layer3.m3u8
+#EXTINF: -1 type = "stream" tvg-id = "Esporte Interativo 1" tvg-logo = "http://revenda.kudaplay.tv/tema/canais_logo/HD_ESPORTE_INTERATIVO.png" group-title = "Esporte", Esporte Interativo 1
+http://tvnanet.xyz:25461/live/palestra2020/palestra/252.m3u8
+#EXTINF: -1 type = "stream" tvg-id = "FX" tvg-logo = "https://i.ibb.co/BZxM22v/fxb.png" group-title = "Filme e série", FX
+http://edge-aws.aovivo.club/hls/s:78.47.74.192/fx_667be543_04ddf5920433f4cf03268b3cbe33f14bb18f96aa.m3u8
+#EXTINF: -1 type = "stream" tvg-id = "TV de peixes" tvg-logo = "https://i.ibb.co/3mqnQx2/fishtv.png" group-title = "Variedade", TV de peixes
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/fishtv_e77a7633_5afb111bf2bb519bfd2ba8c9e218aadf4bc1fd47.m3u8
+#EXTINF: -1 type = "stream" tvg-id = "Rede de alimentos" tvg-logo = "https://i.ibb.co/wS6TzSk/foodnetwork.png" group-title = "Variedade", Rede de alimentos
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/foodnetwork_ceab25ab_4ebf090865fc544fe74de3c7caf29366aca4b77f/playlist.m3u8
+#EXTINF: -1 type = "stream" tvg-id = "Fox" tvg-logo = "https://i.ibb.co/zQwKGNk/foxchannel.png" group-title = "Filme e série", Fox
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/fox_5a5b0f9b_ca70e35f1111375a85dc5a8a945a37175cab45b1/playlist.m3u8
+#EXTINF: -1 type = "stream" tvg-id = "Fox Life" tvg-logo = "https://i.ibb.co/Z6hgvP7/foxlifeb.png" group-title = "Variedade", Fox Life
+https://cdnfe1.azureedge.net/hls1/foxlife.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvOC8yMDE5IDExOjQ2OjE5IFBNJmhhc2hfdmFsdWU9M3VxbW1OZDQ3a3QzbWExdXJlamRBUT09JnZhbGlkbWludXRlcz02MCZpZD01
+#EXTINF: -1 type = "stream" tvg-id = "Fox Premium 1 HD" tvg-logo = "https://i.ibb.co/XJL7R7d/foxpremium1b.png" group-title = "Filme e série" , Fox Premium 1 HD
+http://tvnanet.xyz:25461/live/palestra2020/palestra/83.m3u8
+#EXTINF: -1 type = "stream" tvg-id = "Fox Premium 2 HD" tvg-logo = "https://i.ibb.co/ygC4V8r/foxpremium2b.png" group-title = "Filme e série" Fox Premium 2 HD
+http://tvnanet.xyz:25461/live/palestra2020/palestra/85.m3u8
+#EXTINF: -1 type = "stream" tvg-id = "Fox Sports" tvg-logo = "https://i.ibb.co/sPwqG58/foxsports.png" group-title = "Esporte", Fox Sports
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/foxsports_8a1beaee_1a07040861431715232d3f4b1951188b9e09b473/playlist.m3u8
+#EXTINF: -1 type = "stream" tvg-id = "Fox Sports 2" tvg-logo = "https://i.ibb.co/mtBgHht/foxsports2.png" group-title = "Esporte", Fox Sports 2
+http://tvnanet.xyz:25461/live/palestra2020/palestra/88.m3u8
+#EXTINF: -1 type = "stream" tvg-id = "Futura" tvg-logo = "https://i.ibb.co/K6zprYB/futura.png" group-title = "Documentario", Futura
+http://caikron.com.br:1935/unipar/tvup/chunklist_w884049135.m3u8
+#EXTINF: -1 type = "stream" tvg-id = "GNT" tvg-logo = "https://i.ibb.co/DDW7Xcz/gnt.png" group-title = "Variedade", GNT
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/gnt_c439c60b_888a49c41513a047833026f42d889efcd738c4c0/playlist.m3u8
+#EXTINF: -1 type = "stream" tvg-id = "Globo FHD" tvg-logo = "https://i.ibb.co/frYrFNM/globo.png" group-title = "TV Aberta", Globo FHD
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/globosphd_3a69aa1b_52f39ccab82d910c562c8e62b120e4691ed06247.m3u8
+#EXTINF: -1 type = "stream" tvg-id = "Globo Minas" tvg-logo = "https://i.ibb.co/frYrFNM/globo.png" group-title = "TV Aberta", Globo Minas
+http://load.kudaplay.tv/aovivo/SD_GLOBO_MINAS/video.m3u8?token=6dceb254c49fec2fd0328363762b25b8
+#EXTINF: -1 type = "stream" tvg-id = "Globo Nordeste" tvg-logo = "https://i.ibb.co/pJX7sX0/globone.png" group-title = "TV Aberta", Globo Nordeste
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/globonordeste_acf10f2c_35de7ca275649b628b67e27d8d09f58148046f9f.m3u8
+#EXTINF: -1 type = "stream" tvg-id = "Globo Rio" tvg-logo = "https://i.ibb.co/dcFy14L/globorj.png" group-title = "TV Aberta", Globo Rio
+http://load.kudaplay.tv/aovivo/SD_GLOBO_RJ/video.m3u8?token=6dceb254c49fec2fd0328363762b25b8
+#EXTINF: -1 type = "stream" tvg-id = "Globo SP" tvg-logo = "https://i.ibb.co/kxdMkfw/globosp.png" group-title = "TV Aberta", Globo SP
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/globosp_cfe21c68_b3b7c66c47f764ea23af2f8f68e9c3a0efa0ce2a/playlist.m3u8
+#EXTINF: -1 type = "stream" tvg-id = "GloboNews" tvg-logo = "https://i.ibb.co/Y0zj4xn/globonews.png" group-title = "Notícia", GloboNews
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/globonews_dc685e2c_b4d311fb90748d8d88accedc854b7fa9a93a6b4d.m3u8
+#EXTINF: -1 type = "stream" tvg-id = "Gloob" tvg-logo = "https://i.ibb.co/MSnGHZL/gloob.png" group-title = "Infantil", Gloob
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/gloob_04f1241e_9e37e3d4b9df5082da0c1024955199fbdbbaf6dd.m3u8
+#EXTINF: -1 type = "stream" tvg-id = "Gloobinho" tvg-logo = "https://i.ibb.co/sFRw5Rf/gloobinho.png" group-title = "Infantil", Gloobinho
+http://load.kudaplay.tv/aovivo/SD_GLOOBINHO/video.m3u8?token=6dceb254c49fec2fd0328363762b25b8
+#EXTINF: -1 type = "stream" tvg-id = "HBO" tvg-logo = "https://i.ibb.co/7tz9V3n/hbo.png" group-title = "Filme e série", HBO
+http://edge-aws.aovivo.club/hls/s:78.46.240.155/hbo1080p_63266754_7aa2ec12e7c5da6a327e8cb773cc651cb40674c2.m3u8
+#EXTINF: -1 type = "stream" tvg-id = "HBO 2" tvg-logo = "https://i.ibb.co/YBJqynj/hbo2b.png" group-title = "Filme e série", HBO 2
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/hbo2720p_05a53e36_41138ad1b961e65b82eedde547ac14e2088db7a9.m3u8
+#EXTINF: -1 type = "stream" tvg-id = "Família HBO" tvg-logo = "https://i.ibb.co/kxNkVc1/hbofamily.png" group-title = "Filme e série", HBO Família
+http://tvnanet.xyz:25461/live/palestra2020/palestra/138.m3u8
+#EXTINF: -1 type = "stream" tvg-id = "HBO Plus" tvg-logo = "https://i.ibb.co/JHzz2yN/hboplus.png" group-title = "Filme e série", HBO Mais
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/hboplus1080p_39dfc9ff_057fd9554627abae3e089e74c5f817c6eb8755d3.m3u8
+#EXTINF: -1 type = "stream" tvg-id = "HBO Plus * e" tvg-logo = "http://revenda.kudaplay.tv/tema/canais_logo/SD_HBO_PLUS_E.png" group-title = "Filme e Série ", HBO Plus * e
+https://cdnfe1.azureedge.net/hls1/hboplus.m3u8?wmsAuthSign=
+#EXTINF: -1 type = "stream" tvg-id = "HBO Signature" tvg-logo = "https://i.ibb.co/bQp2cq4/hbosignatureb.png" group-title = "Filme e série", HBO Assinatura
+http://tvnanet.xyz:25461/live/palestra2020/palestra/146.m3u8
+#EXTINF: -1 type = "stream" tvg-id = "History" tvg-logo = "https://i.ibb.co/vXXFvMF/historyb.png" group-title = "Documentario", Histórico
+http://tvnanet.xyz:25461/live/palestra2020/palestra/148.m3u8
+#EXTINF: -1 type = "stream" tvg-id = "History 2" tvg-logo = "https://i.ibb.co/b6w6MWr/h2.png" group-title = "Filme e série", Histórico 2
+http://tvnanet.xyz:25461/live/palestra2020/palestra/134.m3u8
+#EXTINF: -1 type = "stream" tvg-id = "I-Sat FHD" tvg-logo = "https://i.ibb.co/X74fJNy/isat.png" group-title = "Filme e série" , I-Sat FHD
+http://load.kudaplay.tv/aovivo/FHD_ISAT/video.m3u8?token=6dceb254c49fec2fd0328363762b25b8
+#EXTINF: -1 type = "stream" tvg-id = "I-Sat HD" tvg-logo = "https://i.ibb.co/X74fJNy/isat.png" group-title = "Filme e série" , Eu-Sat HD
+http://load.kudaplay.tv/aovivo/HD_ISAT/video.m3u8?token=6dceb254c49fec2fd0328363762b25b8
+#EXTINF: -1 type = "stream" tvg-id = "ID" tvg-logo = "https://i.ibb.co/GkCFcmY/investigationb.png" group-title = "Documentario", ID
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/investigacaodiscovery_4d134bc0_1c5c99da8c674cedbfbcd850eb59ca1ba1ccfd99/playlist.m3u8
+#EXTINF: -1 type = "stream" tvg-id = "TV ideal" tvg-logo = "https://i.ibb.co/NZHB3Bn/idealtv.png" group-title = "TV Aberta", TV ideal
+http://load.kudaplay.tv/aovivo/SD_IDEALTV/video.m3u8?token=6dceb254c49fec2fd0328363762b25b8
+#EXTINF: -1 type = "stream" tvg-id = "Lifetime" tvg-logo = "https://i.ibb.co/5rp1PW0/lifetime.png" group-title = "Filme e série", Lifetime
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/lifetime_7a9ca14d_23ff7ac96dfb3352ed1c52ee68f3b06bb4796cac.m3u8
+#EXTINF: -1 type = "stream" tvg-id = "MTV" tvg-logo = "https://i.ibb.co/W5VwW2N/mtvb.png" group-title = "Entretenimento e Música", MTV
+http://edge-aws.aovivo.club/hls/s:78.47.3.135/mtvbrasilhd_5dca4777_38cb8d22aa0594f8787459c57c61e168b95af196.m3u8
+#EXTINF: -1 type = "stream" tvg-id = "Mais Globosat" tvg-logo = "https://i.ibb.co/tsRJmPR/maisglobosatb.png" group-title = "Variedade", Mais Globosat
+https://cdnfe1.azureedge.net/hls1/maisbobosat.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvOS8yMDE5IDE6NDc6MzQgQU0maGFzaF92YWx1ZT1pZGxvWVMway90WnFCMGk1bmdvaU1BPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF: -1 type = "stream" tvg-id = "Max" tvg-logo = "https://i.ibb.co/4Nw6mrM/max.png" group-title = "Filme e série", Max
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/max_9f682df2_9b83e39aa3107c217a58aee42f00e9b2bb4d6a0c/playlist.m3u8
+#EXTINF: -1 type = "stream" tvg-id = "Max Prime" tvg-logo = "https://i.ibb.co/2FBnTfk/maxprimeb.png" group-title = "Filme e série", Max Prime
+http://edge-aws.aovivo.club/hls/s:78.47.3.135/maxprime_9c676e00_90cbeb16a82851978b711f30b60f77e5596f94ed.m3u8
+#EXTINF: -1 type = "stream" tvg-id = "Max UP" tvg-logo = "https://i.ibb.co/ZMRptxb/maxup.png" group-title = "Filme e série", Max ACIMA
+http://tvnanet.xyz:25461/live/palestra2020/palestra/160.m3u8
+#EXTINF: -1 type = "stream" tvg-id = "Max UP HD" tvg-logo = "https://i.ibb.co/ZMRptxb/maxup.png" group-title = "Filme e série", Max UP HD
+http://load.kudaplay.tv/aovivo/HD_MAX_UP/video.m3u8?token=6dceb254c49fec2fd0328363762b25b8
+#EXTINF: -1 type = "stream" tvg-id = "Megapix" tvg-logo = "https://i.ibb.co/Vtq0pNb/megapixb.png" group-title = "Filme e série", Megapix
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/megapix_a6f16ab4_bfe499909f31df384342f238daf7ba90a49d5ca4/playlist.m3u8
+#EXTINF: -1 type = "stream" tvg-id = "Multishow" tvg-logo = "https://i.ibb.co/R0nqMq0/multishow.png" group-title = "Entretenimento e Música", Multishow
+http://tvnanet.xyz:25461/live/palestra2020/palestra/167.m3u8
+#EXTINF: -1 type = "stream" tvg-id = "Music Box Brazil" tvg-logo = "https://i.ibb.co/rb8wvmv/musicboxbrazil.png" group-title = "Entretenimento e Música", Music Box Brasil
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/mtvbrasil_7719a1c7_85eabdf6ce1a5000d5e8ec04b3199f4003116d3b/playlist.m3u8
+#EXTINF: -1 type = "stream" tvg-id = "NBR" tvg-logo = "https://i.ibb.co/dPgV5Vs/nbr.png" group-title = "TV Aberta", NBR
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/espnbrasil_2a459380_78c59c578ea275396e32e602d4949cc1f7e0ad04/playlist.m3u8
+#EXTINF: -1 type = "stream" tvg-id = "NHK" tvg-logo = "https://i.ibb.co/JBsDq1y/nhk.png" group-title = "Internacional", NHK
+http://load.kudaplay.tv/aovivo/SD_NHK/video.m3u8?token=6dceb254c49fec2fd0328363762b25b8
+#EXTINF: -1 type = "stream" tvg-id = "NatGeo Kids" tvg-logo = "https://i.ibb.co/m86jr31/natgeokids.png" group-title = "Infantil", NatGeo Kids
+https://cdnfe1.azureedge.net/hls1/natgeokids.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTIvMjAxOSAxMjowNjoxNSBBTSZoYXNoX3ZhbHVlPVE5N1hsK3VZTFRZWkFtcUlsK0JpU1E9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9NQ==
+#EXTINF: -1 type = "stream" tvg-id = "Natgeo Wild" tvg-logo = "https://i.ibb.co/HCQCNbY/natgeowild.png" group-title = "Documentario", Natgeo Wild
+http://load.kudaplay.tv/aovivo/SD_NAT_GEO_WILD/video.m3u8?token=6dceb254c49fec2fd0328363762b25b8
+#EXTINF: -1 type = "stream" tvg-id = "National Geographic" tvg-logo = "https://i.ibb.co/q1gGdrD/natgeo.png" group-title = "Documentario", National Geographic
+http://tvnanet.xyz:25461/live/palestra2020/palestra/174.m3u8
+#EXTINF: -1 type = "stream" tvg-id = "Nick Jr." tvg-logo = "https://i.ibb.co/nn5x9pD/nickjr.png" group-title = "Infantil", Nick Jr.
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/nickjr_54ceb912_c1c7b21c32271af0a662a6870fbdf174dd799193.m3u8
+#EXTINF: -1 type = "stream" tvg-id = "Nickelodeon" tvg-logo = "https://i.ibb.co/p4SynfT/nickelodeon.png" group-title = "Infantil", Nickelodeon
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/nickelodeon_bc33ea4e_9407a0d7d1b00f39abf32da3305e54447923eb85/playlist.m3u8
+#EXTINF: -1 type = "stream" tvg-id = "Novo Tempo" tvg-logo = "https://i.ibb.co/3cZwZ9m/tvnovotempo.png" group-title = "TV Aberta", Novo Tempo
+http://edge-aws.aovivo.club/hls/s:173.230.130.70/tvnovotempo_9ee0df7c_c083b63c7eee605c5e0a2c331e3b2053eb173f06/720p_4120kbit/chunklist.m3u8
+#EXTINF: -1 type = "stream" tvg-id = "Off" tvg-logo = "https://i.ibb.co/J23V5yZ/canaloffb.png" group-title = "Variedade e Esporte", desativado
+http://load.kudaplay.tv/aovivo/SD_OFF/video.m3u8?token=6dceb254c49fec2fd0328363762b25b8
+#EXTINF: -1 type = "stream" tvg-id = "Off HD [Alter]" tvg-logo = "https://i.ibb.co/J23V5yZ/canaloffb.png" group-title = "Variedade e Esporte ", Off HD [Alterar]
+http://load.kudaplay.tv/aovivo/HD_OFF_ALTER/video.m3u8?token=6dceb254c49fec2fd0328363762b25b8
+#EXTINF: -1 type = "stream" tvg-id = "Paramount" tvg-logo = "https://i.ibb.co/D9Lc0JL/paramount.png" group-title = "Filme e série", Paramount
+http://tvnanet.xyz:25461/live/palestra2020/palestra/183.m3u8
+#EXTINF: -1 type = "stream" tvg-id = "Play TV" tvg-logo = "https://i.ibb.co/my6jxPJ/playtv.png" group-title = "Entretenimento e Música", Play televisão
+http://load.kudaplay.tv/aovivo/SD_PLAY_TV/video.m3u8?token=6dceb254c49fec2fd0328363762b25b8
+#EXTINF: -1 type = "stream" tvg-id = "Reproduzir TV HD" tvg-logo = "https://i.ibb.co/my6jxPJ/playtv.png" group-title = "Entretenimento e Música", Reproduzir TV HD
+http://load.kudaplay.tv/aovivo/HD_PLAYTV/video.m3u8?token=6dceb254c49fec2fd0328363762b25b8
+#EXTINF: -1 type = "stream" tvg-id = "Premiere 2" tvg-logo = "https://i.ibb.co/nb8dcZZ/premiere.png" group-title = "Esporte", Premiere 2
+http://load.kudaplay.tv/aovivo/SD_PFC_2/video.m3u8?token=6dceb254c49fec2fd0328363762b25b8
+#EXTINF: -1 type = "stream" tvg-id = "Premiere 3" tvg-logo = "https://i.ibb.co/nb8dcZZ/premiere.png" group-title = "Esporte", Premiere 3
+http://load.kudaplay.tv/aovivo/SD_PFC_3/video.m3u8?token=6dceb254c49fec2fd0328363762b25b8
+#EXTINF: -1 type = "stream" tvg-id = "Premiere 4" tvg-logo = "https://i.ibb.co/nb8dcZZ/premiere.png" group-title = "Esporte", Premiere 4
+http://load.kudaplay.tv/aovivo/SD_PFC_4/video.m3u8?token=6dceb254c49fec2fd0328363762b25b8
+#EXTINF: -1 type = "stream" tvg-id = "Premiere 5" tvg-logo = "https://i.ibb.co/nb8dcZZ/premiere.png" group-title = "Esporte", Premiere 5
+http://load.kudaplay.tv/aovivo/SD_PFC_5/video.m3u8?token=6dceb254c49fec2fd0328363762b25b8
+#EXTINF: -1 type = "stream" tvg-id = "Premiere 6" tvg-logo = "https://i.ibb.co/nb8dcZZ/premiere.png" group-title = "Esporte", Premiere 6
+http://load.kudaplay.tv/aovivo/SD_PFC_6/video.m3u8?token=6dceb254c49fec2fd0328363762b25b8
+#EXTINF: -1 type = "stream" tvg-id = "Premiere 7" tvg-logo = "https://i.ibb.co/nb8dcZZ/premiere.png" group-title = "Esporte", Premiere 7
+http://load.kudaplay.tv/aovivo/SD_PFC_7/video.m3u8?token=6dceb254c49fec2fd0328363762b25b
+#EXTINF: -1 type = "stream" tvg-id = "Premiere 8" tvg-logo = "https://i.ibb.co/nb8dcZZ/premiere.png" group-title = "Esporte", Premiere 8
+http://load.kudaplay.tv/aovivo/SD_PFC_8/video.m3u8?token=6dceb254c49fec2fd0328363762b25b8
+#EXTINF: -1 type = "stream" tvg-id = "Clubes de estreia" tvg-logo = "https://i.ibb.co/nb8dcZZ/premiere.png" group-title = "Esporte", Clubes de estreia
+http://load.kudaplay.tv/aovivo/SD_PFC_CLUBES/video.m3u8?token=6dceb254c49fec2fd0328363762b25b8
+#EXTINF: -1 type = "stream" tvg-id = "Premiere Clubes HD" tvg-logo = "https://i.ibb.co/nb8dcZZ/premiere.png" group-title = "Esporte", Premiere Clubes HD
+http://load.kudaplay.tv/aovivo/HD_PFC_CLUBES/video.m3u8?token=6dceb254c49fec2fd0328363762b25b8
+#EXTINF: -1 type = "stream" tvg-id = "Primebox Brasil" tvg-logo = "https://i.ibb.co/RPgYRF4/primeboxbrazil.png" group-title = "Filme e série", Primebox Brasil
+http://load.kudaplay.tv/aovivo/SD_PRIMEBOX_BRASIL/video.m3u8?token=6dceb254c49fec2fd0328363762b25b8
+#EXTINF: -1 type = "stream" tvg-id = "RIT" tvg-logo = "https://i.ibb.co/m41x063/rit.png" group-title = "TV Aberta", RIT
+http://load.kudaplay.tv/aovivo/SD_RIT/video.m3u8?token=6dceb254c49fec2fd0328363762b25b8
+#EXTINF: -1 type = "stream" tvg-id = "Record" tvg-logo = "https://i.ibb.co/NyZ0TgN/recordtv.png" group-title = "TV Aberta", registro
+http://load.kudaplay.tv/aovivo/SD_RECORD/video.m3u8?token=6dceb254c49fec2fd0328363762b25b8
+#EXTINF: -1 type = "stream" tvg-id = "Record HD" tvg-logo = "https://i.ibb.co/NyZ0TgN/recordtv.png" group-title = "TV Aberta", Record HD
+http://tvnanet.xyz:25461/live/palestra2020/palestra/210.m3u8
+#EXTINF: -1 type = "stream" tvg-id = "Gravar HD [Alterar]" tvg-logo = "https://i.ibb.co/NyZ0TgN/recordtv.png" group-title = "TV Aberta" , Gravar HD [Alter]
+http://load.kudaplay.tv/aovivo/HD_RECORD_ALTER/video.m3u8?token=6dceb254c49fec2fd0328363762b25b8
+#EXTINF: -1 type = "stream" tvg-id = "Record MG HD" tvg-logo = "https://i.ibb.co/NyZ0TgN/recordtv.png" group-title = "TV Aberta", registro MG HD
+http://load.kudaplay.tv/aovivo/HD_RECORD_MG/video.m3u8?token=6dceb254c49fec2fd0328363762b25b8
+#EXTINF: -1 type = "stream" tvg-id = "Record News" tvg-logo = "https://i.ibb.co/gjYJCG8/recordnewsb.png" group-title = "Notícia", Record News
+http://load.kudaplay.tv/aovivo/SD_RECORD_NEWS/video.m3u8?token=6dceb254c49fec2fd0328363762b25b8
+#EXTINF: -1 type = "stream" tvg-id = "Rede Brasil" tvg-logo = "https://i.ibb.co/6Hj9z40/redebrasil.png" group-title = "TV Aberta", Rede Brasil
+http://edge-aws.aovivo.club/hls/s:78.47.3.135/tvbrasil_86cf294a_a3f85f67ac4ac0b91b8811c32670397a072327b2/playlist.m3u8
+#EXTINF: -1 type = "stream" tvg-id = "Rede Vida" tvg-logo = "https://i.ibb.co/w0MnnX5/redevida.png" group-title = "TV Aberta", Rede Vida
+http://edge-aws.aovivo.club/hls/s:50.116.42.107/redevida_ed2efc1c_5374ec22c37e17939fc85096c1fbc4b8dc522dc5/720p/chunklist.m3u8
+#EXTINF: -1 type = "stream" tvg-id = "RedeTV!" tvg-logo = "https://i.ibb.co/wR1cmgM/redetv.png" group-title = "TV Aberta", RedeTV!
+http://load.kudaplay.tv/aovivo/SD_REDETV/video.m3u8?token=6dceb254c49fec2fd0328363762b25b8
+#EXTINF: -1 type = "stream" tvg-id = "SBT" tvg-logo = "https://i.ibb.co/2yZqPRz/sbt.png" group-title = "TV Aberta", SBT
+https://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w1959120030_b216000_sleng.m3u8
+#EXTINF: -1 type = "stream" tvg-id = "SIC Internacional" tvg-logo = "https://i.ibb.co/QrnvXTv/sic.png" group-title = "Internacional", SIC Internacional
+http://load.kudaplay.tv/aovivo/SD_SIC_INTERNACIONAL/video.m3u8?token=6dceb254c49fec2fd0328363762b25b8
+#EXTINF: -1 type = "stream" tvg-id = "Sony" tvg-logo = "https://i.ibb.co/rFxKrFQ/sony.png" group-title = "Filme e série", Sony
+http://load.kudaplay.tv/aovivo/SD_SONY/video.m3u8?token=6dceb254c49fec2fd0328363762b25b8
+#EXTINF: -1 type = "stream" tvg-id = "Space" tvg-logo = "https://i.ibb.co/6wYLB5f/space.png" group-title = "Filme e série", Espaço
+http://load.kudaplay.tv/aovivo/SD_SPACE/video.m3u8?token=6dceb254c49fec2fd0328363762b25b8
+#EXTINF: -1 type = "stream" tvg-id = "Space HD [Alter]" tvg-logo = "https://i.ibb.co/pwRK1xT/spacehd.png" group-title = "Filme e série ", Space HD [Alter]
+http://load.kudaplay.tv/aovivo/HD_SPACE_ALTER/video.m3u8?token=6dceb254c49fec2fd0328363762b25b8
+#EXTINF: -1 type = "stream" tvg-id = "SporTV" tvg-logo = "https://i.ibb.co/Rv3pNrH/sportv.png" group-title = "Esporte", SporTV
+http://load.kudaplay.tv/aovivo/SD_SPORTV_1/video.m3u8?token=6dceb254c49fec2fd0328363762b25b8
+#EXTINF: -1 type = "stream" tvg-id = "SporTV 2" tvg-logo = "https://i.ibb.co/Yy0Pv9X/sportv2.png" group-title = "Esporte", SporTV 2
+http://load.kudaplay.tv/aovivo/SD_SPORTV_2/video.m3u8?token=6dceb254c49fec2fd0328363762b25b8
+#EXTINF: -1 type = "stream" tvg-id = "SporTV 3" tvg-logo = "https://i.ibb.co/G7wwzFS/sportv3.png" group-title = "Esporte", SporTV 3
+http://load.kudaplay.tv/aovivo/SD_SPORTV_3/video.m3u8?token=6dceb254c49fec2fd0328363762b25b8
+#EXTINF: -1 type = "stream" tvg-id = "Studio Universal" tvg-logo = "https://i.ibb.co/jTzy2TB/studiouniversalb.png" group-title = "Filme e série", Studio Universal
+http://load.kudaplay.tv/aovivo/SD_STUDIO_UNIVERSAL/video.m3u8?token=6dceb254c49fec2fd0328363762b25b8
+#EXTINF: -1 type = "stream" tvg-id = "Syfy" tvg-logo = "https://i.ibb.co/3pc26zL/syfy2018.png" group-title = "Filme e série", Syfy
+http://load.kudaplay.tv/aovivo/SD_SYFY/video.m3u8?token=6dceb254c49fec2fd0328363762b25b8
+#EXTINF: -1 type = "stream" tvg-id = "TBS" tvg-logo = "https://i.ibb.co/kXhr2Cr/tbsb.png" group-title = "Filme e série", TBS
+http://load.kudaplay.tv/aovivo/SD_TBS/video.m3u8?token=6dceb254c49fec2fd0328363762b25b8
+#EXTINF: -1 type = "stream" tvg-id = "TCM" tvg-logo = "https://i.ibb.co/jgP3J7r/tcm.png" group-title = "Filme e série", TCM
+http://load.kudaplay.tv/aovivo/SD_TCM/video.m3u8?token=6dceb254c49fec2fd0328363762b25b8
+#EXTINF: -1 type = "stream" tvg-id = "TLC" tvg-logo = "https://i.ibb.co/njTvjL1/tlc.png" group-title = "Variedade", TLC
+http://load.kudaplay.tv/aovivo/SD_TLC/video.m3u8?token=6dceb254c49fec2fd0328363762b25b8
+#EXTINF: -1 type = "stream" tvg-id = "TNT HD" tvg-logo = "https://i.ibb.co/BLmwXmN/tnt.png" group-title = "Filme e série", TNT HD
+http://load.kudaplay.tv/aovivo/HD_TNT/video.m3u8?token=6dceb254c49fec2fd0328363762b25b8
+#EXTINF: -1 type = "stream" tvg-id = "Série TNT" tvg-logo = "https://i.ibb.co/KVMQPWv/tntseries.png" group-title = "Filme e série", TNT Series
+http://load.kudaplay.tv/aovivo/SD_TNT_SERIES/video.m3u8?token=6dceb254c49fec2fd0328363762b25b8
+#EXTINF: -1 type = "stream" tvg-id = "TV Aparecida" tvg-logo = "https://i.ibb.co/8xkPXfn/tvaparecida.png" group-title = "TV Aberta", TV Aparecida
+http://load.kudaplay.tv/aovivo/SD_TV_APARECIDA/video.m3u8?token=6dceb254c49fec2fd0328363762b25b8
+#EXTINF: -1 type = "stream" tvg-id = "TV Brasil" tvg-logo = "https://i.ibb.co/PgcdPNt/tvbrasil.png" group-title = "TV Aberta", TV Brasil
+http://load.kudaplay.tv/aovivo/SD_TV_BRASIL/video.m3u8?token=6dceb254c49fec2fd0328363762b25b8
+#EXTINF: -1 type = "stream" tvg-id = "TV Camara" tvg-logo = "https://i.ibb.co/WytSmtN/tvcamara.png" group-title = "TV Aberta", TV Camara
+http://load.kudaplay.tv/aovivo/SD_TV_CAMARA/video.m3u8?token=6dceb254c49fec2fd0328363762b25b8
+#EXTINF: -1 type = "stream" tvg-id = "TV Centro América" ​​tvg-logo = "https://i.ibb.co/YRKGJpw/tvcentroamerica.png" group-title = "TV Aberta", TV Centro America
+http://load.kudaplay.tv/aovivo/SD_TV_CENTRO_AMERICA/video.m3u8?token=6dceb254c49fec2fd0328363762b25b8
+#EXTINF: -1 type = "stream" tvg-id = "TV Escola" tvg-logo = "https://i.ibb.co/TcR9DDb/tvescola.png" group-title = "TV Aberta", TV Escola
+http://load.kudaplay.tv/aovivo/SD_TV_ESCOLA/video.m3u8?token=6dceb254c49fec2fd0328363762b25b8
+#EXTINF: -1 type = "stream" tvg-id = "TV Justica" tvg-logo = "https://i.ibb.co/58Yvjj2/tvjustica.png" group-title = "TV Aberta", TV Justica
+http://load.kudaplay.tv/aovivo/SD_TV_JUSTICA/video.m3u8?token=6dceb254c49fec2fd0328363762b25b8
+#EXTINF: -1 type = "stream" tvg-id = "TV Ratimbum" tvg-logo = "https://i.ibb.co/GvYCgHy/tvratimbum.png" group-title = "Infantil", TV Ratimbum
+http://load.kudaplay.tv/aovivo/SD_TV_RATIMBUM/video.m3u8?token=6dceb254c49fec2fd0328363762b25b8
+#EXTINF: -1 type = "stream" tvg-id = "TV Senado" tvg-logo = "https://i.ibb.co/nwtkNYt/tvsenado.png" group-title = "TV Aberta", TV Senado
+http://load.kudaplay.tv/aovivo/SD_TV_SENADO/video.m3u8?token=6dceb254c49fec2fd0328363762b25b8
+#EXTINF: -1 type = "stream" tvg-id = "TV Universal" tvg-logo = "https://i.ibb.co/Kq2pHp3/universaltv.png" group-title = "Filme e série", TV Universal
+http://load.kudaplay.tv/aovivo/SD_UNIVERSAL/video.m3u8?token=6dceb254c49fec2fd0328363762b25b8
+#EXTINF: -1 type = "stream" tvg-id = "TVE" tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Logo_TVE-Internacional.svg/200px- Logo_TVE-Internacional.svg.png "group-title =" Internacional ", TVE
+http://load.kudaplay.tv/aovivo/SD_TVE/video.m3u8?token=6dceb254c49fec2fd0328363762b25b8
+#EXTINF: -1 type = "stream" tvg-id = "Ação do Telecine" tvg-logo = "https://i.ibb.co/LY4HPS3/tcactionb.png" group-title = "Filme e série", Telecine Açao
+http://load.kudaplay.tv/aovivo/SD_TC_ACTION/video.m3u8?token=6dceb254c49fec2fd0328363762b25b8
+#EXTINF: -1 type = "stream" tvg-id = "Telecine Cult" tvg-logo = "https://i.ibb.co/jvGkYnG/tccultb.png" group-title = "Filme e série", Telecine Culto
+http://load.kudaplay.tv/aovivo/SD_TC_CULT/video.m3u8?token=6dceb254c49fec2fd0328363762b25b8
+#EXTINF: -1 type = "stream" tvg-id = "Telecine Fun" tvg-logo = "https://i.ibb.co/cc4HPVH/tcfunb.png" group-title = "Filme e série", Telecine Diversão
+http://load.kudaplay.tv/aovivo/SD_TC_FUN/video.m3u8?token=6dceb254c49fec2fd0328363762b25b8
+#EXTINF: -1 type = "stream" tvg-id = "Telecine Pipoca" tvg-logo = "https://i.ibb.co/2cxgKRj/tcpipocab.png" group-title = "Filme e série", Telecine Pipoca
+http://load.kudaplay.tv/aovivo/SD_TC_PIPOCA/video.m3u8?token=6dceb254c49fec2fd0328363762b25b8
+#EXTINF: -1 type = "stream" tvg-id = "Telecine Premium" tvg-logo = "https://i.ibb.co/r2YxHDW/tcpremiumb.png" group-title = "Filme e série", Telecine Prêmio
+http://load.kudaplay.tv/aovivo/SD_TC_PREMIUM/video.m3u8?token=6dceb254c49fec2fd0328363762b25b8
+#EXTINF: -1 type = "stream" tvg-id = "Telecine Touch" tvg-logo = "https://i.ibb.co/2P8hGVv/tctouchb.png" group-title = "Filme e série", Telecine Toque
+http://load.kudaplay.tv/aovivo/SD_TC_TOUCH/video.m3u8?token=6dceb254c49fec2fd0328363762b25b8
+#EXTINF: -1 type = "stream" tvg-id = "Terra Viva" tvg-logo = "https://i.ibb.co/3dfhpY0/terraviva.png" group-title = "TV Aberta", Terra Viva
+http://load.kudaplay.tv/aovivo/SD_TERRA_VIVA/video.m3u8?token=6dceb254c49fec2fd0328363762b25b8
+#EXTINF: -1 type = "stream" tvg-id = "Tooncast" tvg-logo = "https://i.ibb.co/9YDb4fW/tooncast.png" group-title = "Infantil", Tooncast
+http://load.kudaplay.tv/aovivo/SD_TOONCAST/video.m3u8?token=6dceb254c49fec2fd0328363762b25b8
+#EXTINF: -1 type = "stream" tvg-id = "Trutv" tvg-logo = "https://i.ibb.co/56HVjjB/trutvb.png" group-title = "Variedade", Trutv
+http://load.kudaplay.tv/aovivo/SD_TRUTV/video.m3u8?token=6dceb254c49fec2fd0328363762b25b8
+#EXTINF: -1 type = "stream" tvg-id = "VH1" tvg-logo = "https://i.ibb.co/p3cFRcS/vh1.png" group-title = "Entretenimento e Música", VH1
+http://load.kudaplay.tv/aovivo/SD_VH1/video.m3u8?token=6dceb254c49fec2fd0328363762b25b8
+#EXTINF: -1 type = "stream" tvg-id = "VH1 Megahits" tvg-logo = "https://i.ibb.co/WHdMy8M/vh1megahits.png" group-title = "Entretenimento e Música", VH1 Megahits
+http://load.kudaplay.tv/aovivo/SD_VH1_MEGAHITS/video.m3u8?token=6dceb254c49fec2fd0328363762b25b8
+#EXTINF: -1 type = "stream" tvg-id = "Viva" tvg-logo = "https://i.ibb.co/W0w20Dn/viva2018.png" group-title = "Variedade", Viva
+http://load.kudaplay.tv/aovivo/SD_VIVA/video.m3u8?token=6dceb254c49fec2fd0328363762b25b8
+#EXTINF: -1 type = "stream" tvg-id = "Canal Warner" tvg-logo = "https://i.ibb.co/jRzKhty/warnerchannel.png" group-title = "Filme e série", Warner Canal
+http://load.kudaplay.tv/aovivo/SD_WARNER/video.m3u8?token=6dceb254c49fec2fd0328363762b25b8
+#EXTINF: -1 type = "stream" tvg-id = "Woohoo" tvg-logo = "https://i.ibb.co/rvT7WT5/woohoo.png" group-title = "Variedade", Woohoo
+http://load.kudaplay.tv/aovivo/SD_WOOHOO/video.m3u8?token=6dceb254c49fec2fd0328363762b25b8
+#EXTINF: -1 type = "stream" tvg-id = "Zoomoo HD" tvg-logo = "https://i.ibb.co/XL5sJVf/zoomoo.png" group-title = "Infantil", Zoomoo HD
+http://load.kudaplay.tv/aovivo/HD_ZOOMOO/video.m3u8?token=6dceb254c49fec2fd0328363762b25b8
+#EXTINF: -1 type = "stream" tvg-id = "i-Sat" tvg-logo = "https://i.ibb.co/X74fJNy/isat.png" group-title = "Filme e série", i-Sat
+http://load.kudaplay.tv/aovivo/SD_ISAT/video.m3u8?token=6dceb254c49fec2fd0328363762b25b8
